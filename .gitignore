@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+src/google-api-secret.json
+src/s3.json

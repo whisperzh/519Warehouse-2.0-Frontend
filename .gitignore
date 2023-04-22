@@ -3,3 +3,4 @@ node_modules
 src/google-api-secret.json
 src/s3.json
 build
+.env
